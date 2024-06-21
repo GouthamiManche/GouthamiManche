@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouthami Manche</h1>
-<h3 align="center"> Aspiring Software Developer</h3><br><br>
+<h3 align="center"> Aspiring Software Developer</h3><br>
 
 🔭 I’m currently working on **Full Stack Development** <br><br>
 🌱 I’m currently learning **MERN Stack and Data Structures & Algorithms** <br><br>
